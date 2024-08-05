@@ -6,21 +6,21 @@ author_profile: true
 ---
 
 {% include base_path %}
-# Automatic detection of TB through analysis of cough
+# Automatic detection of TB through analysis of cough (2023-2024)
 * Aim: To automatically identifiy TB from cough ...
 
-# Five Minutes Speech Sample (King's College London)
+# Five Minutes Speech Sample (King's College London) (2021-2024)
 * Automatic Detection of Expressed Emotion from Five-Minute Speech Samples: We aim at identifying Expressed Emotion (EE), a family environment concept based on caregivers speaking freely about their relative/family member, examples: degree of warmth, dissatisfaction
 
-# CognoSpeak: a Cognitive Health Assessment Tool (CcHAT)
-CognoSpeak is a conversational tool (CognoSpeakTM) that asks questions using a talking head on a laptop, tablet or smartphone and carefully analyses the spoken answers to detect early signs of dementia. [read more](https://cognospeak.co.uk)
+# CognoSpeak: a Cognitive Health Assessment Tool (CcHAT) (2023-2024)
+* CognoSpeak is a conversational tool (CognoSpeakTM) that asks questions using a talking head on a laptop, tablet or smartphone and carefully analyses the spoken answers to detect early signs of dementia. [read more](https://cognospeak.co.uk)
 
-# COMPutational Assessment of Stroke Survivors Prototype 
-## funded by Rosetrees Trust, TUoS Knowledge Exchange, and NIHR Clinical Research Network (2020-2023)
+# COMPutational Assessment of Stroke Survivors Prototype (2020-2023)
+* funded by Rosetrees Trust, TUoS Knowledge Exchange, and NIHR Clinical Research Network 
 * Aim: Stroke affects 152,000 UK citizens every year. Over 50% of stroke survivors have cognitive impairment. Currently, 850,000 people live with dementia in the UK and stroke is one of the biggest risk factors. However, current pen-and-paper based tests are not always appropriate for stroke survivors who often have motor, visual or language difficulties. In addition, longitudinal follow-up is required to detect emerging cognitive impairment. Finally, assessments typically take place in hospital settings, are costly and often inconvenient for patients. This project aims to create an easy-to-use cognitive assessment tool specifically designed for the needs of stroke survivors. It will be based on our stratification tool COCOA (COmputational COgnitive Assessment), developed for detecting early signs of dementia. The tool uses automatic analysis of conversations that patients have with an on-screen digital doctor.
 
-# COMPutational Assessment of Stroke Survivors Prototype (COMPASS-proto) 
-## funded by [Fast Healthcare Networks Plus (2019-2020)](http://www.fast-healthcare.org.uk/compass-proto)
+# COMPutational Assessment of Stroke Survivors Prototype (COMPASS-proto) (2019-2020)  
+* Funded by [Fast Healthcare Networks Plus ](http://www.fast-healthcare.org.uk/compass-proto)
 * This project aims to create an easy-to-use cognitive assessment tool specifically designed for the needs of stroke survivors. It will be based on our stratification tool COCOA (COmputational COgnitive Assessment), developed for detecting early signs of dementia. The tool uses automatic analysis of conversations that patients have with an on-screen digital doctor. The patients’ speech is analysed for signs of cognitive decline using speech technology. This project will adapt our digital doctor’s questions to target vascular cognitive impairment, especially executive dysfunction, neglect and dysphasia. We will create an online version to enable home-based testing. read more ...
 
 # Collaboration in AvaChat project (2018-2019)
