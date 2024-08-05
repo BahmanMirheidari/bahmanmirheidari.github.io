@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-# Automatic detection of TB through analysis of speech
+# Automatic detection of TB through analysis of cough
+Aim: To automatically identifiy TB from cough ...
 
 # Five Minutes Speech Sample (King's College London)
 Automatic Detection of Expressed Emotion from Five-Minute Speech Samples: We aim at identifying Expressed Emotion (EE), a family environment concept based on caregivers speaking freely about their relative/family member, examples: degree of warmth, dissatisfaction
