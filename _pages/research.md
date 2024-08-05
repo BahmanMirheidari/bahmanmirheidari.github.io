@@ -13,7 +13,7 @@ author_profile: true
 * Automatic Detection of Expressed Emotion from Five-Minute Speech Samples: We aim at identifying Expressed Emotion (EE), a family environment concept based on caregivers speaking freely about their relative/family member, examples: degree of warmth, dissatisfaction
 
 # CognoSpeak: a Cognitive Health Assessment Tool (CcHAT)
-CognoSpeak is a conversational tool (CognoSpeakTM) that asks questions using a talking head on a laptop, tablet or smartphone and carefully analyses the spoken answers to detect early signs of dementia. [read more](https://cognospeak.co.uk/cognospeak-login)
+CognoSpeak is a conversational tool (CognoSpeakTM) that asks questions using a talking head on a laptop, tablet or smartphone and carefully analyses the spoken answers to detect early signs of dementia. [read more](https://cognospeak.co.uk)
 
 # COMPutational Assessment of Stroke Survivors Prototype 
 ## funded by Rosetrees Trust, TUoS Knowledge Exchange, and NIHR Clinical Research Network (2020-2023)
