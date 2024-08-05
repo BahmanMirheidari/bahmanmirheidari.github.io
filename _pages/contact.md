@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Bahman Mirheidari
-======
-* School of Computer Science
-* University of Sheffield
-* Regent Court, 211 Portobello, Room 149
-* Sheffield, S1 4DP, UK
-* Phone: +44 114 222 1918
-* Email: b.mirheidari@sheffield.ac.uk
+Bahman Mirheidari 
+<address>
+  School of Computer Science<br /> University of Sheffield<br /> Regent Court, 211 Portobello, Room 149 <br /> Sheffield, S1 4DP, UK <br /> +44 114 222 1918 <br />  b.mirheidari@sheffield.ac.uk
+</address>
