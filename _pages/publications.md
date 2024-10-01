@@ -52,6 +52,5 @@ Pan, Y., Mirheidari, B., Reuber, M., Venneri, A., Blackburn, D., & Christensen, 
 ## Other papers
 * Mirheidari, B., Pan, Y., Walker, T., Reuber, M., Venneri, A., Blackburn, D. and Christensen, H., 2021. DETECTING ALZHEIMER'S DISEASE BY ESTIMATING ATTENTION AND ELICITATION PATH THROUGH THE ALIGNMENT OF SPOKEN PICTURE DESCRIPTIONS WITH THE PICTURE PROMPT.
 * Mirheidari, B., Pan, Y., Blackburn, D., O'Malley, R., Walker, T., Venneri, A., ... & Christensen, H. (2020). Data augmentation using generative networks to identify dementia. arXiv preprint arXiv:2004.05989. 
-* Mirheidari, B., Pan, Y., Walker, T., Reuber, M., Venneri, A., Blackburn, D., & Christensen, H. (2019). Detecting Alzheimer's Disease by estimating attention and elicitation path through the alignment of spoken picture descriptions with the picture prompt. arXiv preprint arXiv:1910.00515. 
-PhD Thesis
+* Mirheidari, B., Pan, Y., Walker, T., Reuber, M., Venneri, A., Blackburn, D., & Christensen, H. (2019). Detecting Alzheimer's Disease by estimating attention and elicitation path through the alignment of spoken picture descriptions with the picture prompt. arXiv preprint arXiv:1910.00515.  
 * Mirheidari, B. (2018). Detecting early signs of dementia in conversation (Doctoral dissertation, University of Sheffield). 
